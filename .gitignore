@@ -1,0 +1,5 @@
+# floder logs
+logs/
+
+# txt files
+docs/*.txt
